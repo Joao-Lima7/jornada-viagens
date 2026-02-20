@@ -75,7 +75,7 @@
 }
 
 @media screen and (min-width: 1024px) {
-  .card {
+  .offers-card .card {
     width: 420px;
     height: 308px;
   }
